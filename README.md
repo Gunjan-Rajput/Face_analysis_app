@@ -10,8 +10,7 @@
    venv\Scripts\activate  # Windows
 ### 3. Install the dependencies:
 pip install -r requirements.txt
-
-4. Run the FastAPI server:
+### 4. Run the FastAPI server:
 uvicorn app:app --reload
 ### Frontend (Flutter)
 1.Navigate to the frontend/ folder.
