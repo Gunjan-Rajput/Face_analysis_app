@@ -1,0 +1,16 @@
+name: beauty_parlour_app
+description: A beauty parlour face analysis app
+publish_to: 'none'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.5
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
