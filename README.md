@@ -4,12 +4,11 @@
 
 ### Backend (FastAPI)
 1. Navigate to the `backend/` folder.
-2. Create a virtual environment and activate it:
-   ```bash
+2. Create a virtual environment and activate it:3
    python -m venv venv
    source venv/bin/activate  # Linux/Mac
    venv\Scripts\activate  # Windows
-### Install the dependencies:
+### 3. Install the dependencies:
 pip install -r requirements.txt
 
 4. Run the FastAPI server:
