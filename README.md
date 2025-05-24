@@ -1,4 +1,4 @@
-# Beauty Parlour Face Analysis
+#  Face Analyzer App
 
 ## Setup Instructions
 
